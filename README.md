@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-aditya&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-aditya" /> </p>
 
-- 🌱 I’m currently learning **React,Express,Node**
+- 🌱 I’m currently learning **React, Express, Node**
 
-- 💬 Ask me about **HTML,JS,CSS,C++,Java,MYSQL**
+- 💬 Ask me about **HTML, JS, CSS, C++, Java, MYSQL**
 
 - 📫 How to reach me **adityaashutosh6@gmail.com**
 
