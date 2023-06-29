@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-aditya&show_icons=true&locale=en" alt="ashutosh-aditya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-aditya&" alt="ashutosh-aditya" /></p>
